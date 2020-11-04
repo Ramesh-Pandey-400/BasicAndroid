@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">SampleApplication</string>
     <string name="change_color_btn">Change Color</string>
+    <string name="btnNext">Next</string>
+    <string name="btnRadio">Radio Button Demo</string>
+    <string name="btnSeekbar">Seekbar Demo</string>
+    <string name="btnToggle">Toggle Button Demo</string>
+    <string name="btnCheckbox">Checkbox Button Demo</string>
+    <string name="btnAlertDialog">Alert Dialog Demo</string>
+
+    <string name="maybe">May Be</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="attending">Attending?</string>
+    <string name="answer" />
+    <string name="AnswerHint">Answer will be</string>
+
+
 </resources>
