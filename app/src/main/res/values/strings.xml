@@ -14,6 +14,23 @@
     <string name="attending">Attending?</string>
     <string name="answer" />
     <string name="AnswerHint">Answer will be</string>
+    <string name="SeekbarHeading">Scroll Seekbar to check Danger Zone Level (1/10)</string>
+    <string name="AnswerHintSeekbar">Your Score is!!</string>
+    <string name="togglesStatusHint">Please Select *|*</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="textViewWhatToEat">What you Want to Eat</string>
+    <string name="chkbxChowmein">Chowmein</string>
+    <string name="chkbxMomo">Momo</string>
+    <string name="chkbxBurger">Burger</string>
+    <string name="textViewCheckboxResult">You Choose</string>
+    <string name="buttonShowResult">Show</string>
+    <string name="btnDialog">Show Dialog</string>
+    <string name="alertDialogTitle">Bahr Jana Chahta h?</string>
+    <string name="alertDialogMessage">Dekh le Shi m Exit krega kya?</string>
+    <string name="alertDialogPositive">Ha</string>
+    <string name="alertDialogNegative">Nhi</string>
+
+
 
 
 </resources>

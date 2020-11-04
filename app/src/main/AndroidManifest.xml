@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SampleApplication">
-        <activity android:name=".RadioButtonDemo"></activity>
+        <activity android:name=".AlertDemo"></activity>
+        <activity android:name=".CheckBoxDemo" />
+        <activity android:name=".ToggleButtonDemo" />
+        <activity android:name=".SeekBarDemo" />
+        <activity android:name=".RadioButtonDemo" />
         <activity android:name=".NextScreen" />
         <activity android:name=".MainActivity">
             <intent-filter>

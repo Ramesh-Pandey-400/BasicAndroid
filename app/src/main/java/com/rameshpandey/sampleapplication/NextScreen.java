@@ -39,6 +39,41 @@ public class NextScreen extends AppCompatActivity {
             }
         });
 
+        btnSeekbarDemo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(NextScreen.this,SeekBarDemo.class);
+                startActivity(intent);
+            }
+        });
+
+
+        btnToggleDemo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(NextScreen.this,ToggleButtonDemo.class);
+                startActivity(intent);
+            }
+        });
+
+
+
+        btnCheckboxDemo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(NextScreen.this,CheckBoxDemo.class);
+                startActivity(intent);
+            }
+        });
+
+
+        btnAlertDemo.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(NextScreen.this,AlertDemo.class);
+                startActivity(intent);
+            }
+        });
 
     }
 
